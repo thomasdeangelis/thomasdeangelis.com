@@ -1,0 +1,43 @@
+@import "project";
+
+.content {
+	-webkit-animation: intro 1.25s ease-out 0.75s forwards;
+	-moz-animation: intro 1.25s ease-out 0.75s forwards;
+	animation: intro 1.25s ease-out 0.75s forwards;
+	opacity: 0;
+	text-align: center;
+	margin: 2% auto;
+}
+
+.no-cssanimations .content {
+	opacity: 1;
+}
+
+.content li {
+	list-style: none;
+	font-size: 1.6em;
+	line-height: 2em;
+}
+
+.content a {
+	-webkit-transition: color 0.35s ease-out;
+	-moz-transition: color 0.35s ease-out;
+	transition: color 0.35s ease-out;
+	color: $text-color;
+	text-decoration: none;
+}
+
+	.content a:hover {
+		color: $blue;
+	}
+	
+	.content a:active {
+		color: $darkblue;
+	}
+
+/* Desktop */
+@media screen and (min-width: 699px) {
+.content li {
+	font-size: 1.8em;
+}
+}
