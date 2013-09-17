@@ -1,0 +1,257 @@
+@import url('http://fonts.googleapis.com/css?family=Open+Sans:300');
+
+body{
+	font-family: 'open sans', sans-serif;
+	background-color:#34495E;
+	
+}
+
+a {
+	text-decoration: none;
+}
+
+h1{
+	color:white;
+}
+
+label{
+	color: #ffffff;
+}
+
+#title{
+	padding-left: 125px;
+}
+
+.profile{
+	position: fixed;
+	bottom: 0px;
+}
+
+.navigation a{
+	color: white !important;
+	font-size: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	transition: color .25s linear;
+	-webkit-transition: color .25s linear;
+	
+}
+
+.navigation a:hover{
+	color: #1ABC9C !important;
+	font-size: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	transition: color .25s linear;
+	-webkit-transition: color .25s linear;
+	-webkit-transition: background-color .25s linear;
+	
+}
+
+.navigation .current{
+	color: #ffffff !important;
+	background-color: #1ABC9C;
+	font-size: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-radius: 3px;
+	transition: color .25s linear;
+	-webkit-transition: background-color .25s linear;
+	
+}
+
+.navigation .current:hover{
+	color: #ffffff !important;
+	background-color: #1ABC9C;
+	font-size: 20px;
+	padding-right: 20px;
+	padding-left: 20px;
+	border-radius: 3px;
+	transition: color .25s linear;
+	-webkit-transition: background-color .25s linear;
+	
+}
+
+
+.navigation {
+	padding-left: 125px;
+	padding-bottom: 20px;
+	
+}
+
+.active{
+	width:30% !important;
+}
+
+.container{
+	margin-left: auto;
+	margin-right: auto;
+	padding:20px;
+	margin: 20px;
+	border-radius: 3px;
+}
+
+.element{
+	height: 100px;
+	width: 100px;
+	transition: color 1s linear;
+	-webkit-transition: background-color .25s linear;
+	cursor: pointer;
+	border-radius: 3px;
+	margin-left: 5px;
+	margin-right: 5px;
+
+}
+
+.element:hover{
+	transition: color .25s linear;
+	-webkit-transition: background-color .25s linear;
+}
+
+#about{
+	color: white;
+	background-color: #1ABC9C;
+	padding-left: 2%;
+	padding-right: 2%;
+	margin-top: 5px;
+	transition: color 1s linear;
+	-webkit-transition: background-color .25s linear;
+	border-radius: 3px;
+}
+
+#about:hover{
+	background-color: #16A085;
+	transition: color 1s linear;
+	-webkit-transition: background-color .25s linear;
+}
+
+#more-info{
+	height:20%;
+	background-color: grey;
+}
+
+/* Tile Colors */
+
+#facebook{
+	background-color: #3498DB;
+}
+
+#facebook:hover{
+	background-color: #2980B9;
+}
+
+#twitter{
+	background-color: #9B59B6;
+}
+
+#twitter:hover{
+	background-color: #8E44AD;
+}
+
+#linkedin{
+	background-color: #E67E22;
+}
+
+#linkedin:hover{
+	background-color: #D35400;
+}
+
+#resume{
+	background-color: #F1C40F;
+}
+
+#resume:hover{
+	background-color: #F39C12;
+}
+
+#portfolio{
+	background-color: #E74C3C;
+}
+
+#portfolio:hover{
+	background-color: #C0392B;
+}
+
+#github{
+	background-color: #95A5A6;
+}
+
+#github:hover{
+	background-color: #7F8C8D;
+}
+
+#qed{
+	background-color: #ffffff;
+}
+
+#qed:hover{
+	background-color: #e4e4e4;
+}
+
+#usaid{
+	background-color: #ffffff;
+}
+
+#usaid:hover{
+	background-color: #e4e4e4;
+}
+
+#photo{
+	height:100px;
+	width:100px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	background-image: url("../img/profile.jpeg");
+	background-size: contain;
+	border: 3px solid white;
+	box-shadow: inset 0px 0px 5px black;
+	margin-top: 30px;
+	
+}
+
+.grid_2{
+	height: 100px;
+	width: 100px !important;
+	border-radius: 3px;
+	text-align: center;
+	color: white;
+}
+
+.portfolio-image{
+	width: 30%;
+	padding-top: 20%;
+}
+
+/*Isotope CSS*/
+
+.isotope-item {
+    z-index: 2;
+    padding: 5px;
+}
+.isotope-hidden.isotope-item {
+    pointer-events: none;
+    z-index: 1;
+}
+.isotope,
+.isotope .isotope-item {
+  /* change duration value to whatever you like */
+
+    -webkit-transition-duration: 0.3s;
+    -moz-transition-duration: 0.3s;
+    transition-duration: 0.3s;
+}
+.isotope {
+    -webkit-transition-property: height, width;
+    -moz-transition-property: height, width;
+    transition-property: height, width;
+}
+.isotope .isotope-item {
+    -webkit-transition-property: -webkit-transform, opacity;
+    -moz-transition-property: -moz-transform, opacity;
+    transition-property: transform, opacity;
+}
+
+.portfolioContainer{
+	width: 40%;
+}
