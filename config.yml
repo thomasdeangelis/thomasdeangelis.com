@@ -1,0 +1,7 @@
+---
+active_modules: [pygments, tags, blog, latex]
+author: Armin Ronacher
+canonical_url: http://lucumr.pocoo.org/
+modules:
+  pygments:
+    style: tango
