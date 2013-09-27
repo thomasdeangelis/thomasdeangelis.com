@@ -8,12 +8,19 @@ $(document).ready(function() {
 				<table>\
 				<tr>\
 				<td><img src='img/headshot.jpeg' width=100px></td>\
+<<<<<<< HEAD
 				<td>I'm a <span style='color: #d6c3b6'>Economics and Computer Science</span> student at Duke University\n\
 				with an international background. I was born and lived in Italy for most of my life. \n\
 				I am passionate about <span style='color: #d6c3b6'>economics, programming, entrepreneurship </span>, \n\
 				and I have a fledging career as an <span style='color: #d6c3b6'>amateur go</span> player.</td>\
+=======
+				<td>I'm a <span style='color: #d6c3b6'>Economics and Computer Science student</span> based out of New York City\n\
+				with an electrical engineering background. This \n\
+				is supplemented by an interest in <span style='color: #d6c3b6'>UI design</span> and \n\
+				an extensive <span style='color: #d6c3b6'>music career</span> as a bassist.</td>\
+>>>>>>> parent of 062eee5... new
 				</tr></table>\
-				For more detailed information, type <span style='color: #d6c3b6'>links</span>\
+				To see my portfolio and music, type <span style='color: #d6c3b6'>links</span>\
 				<br><br>\
 				", {raw: true});
 		} else if(command == 'contact') {
