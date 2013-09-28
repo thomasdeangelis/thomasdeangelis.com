@@ -8,12 +8,12 @@ $(document).ready(function() {
 				<table>\
 				<tr>\
 				<td><img src='img/headshot.jpeg' width=100px></td>\
-				<td>I'm a <span style='color: #d6c3b6'>Economics and Computer Science</span> student Duke University\n\
-				with an electrical engineering background. This \n\
-				is supplemented by an interest in <span style='color: #d6c3b6'>UI design</span> and \n\
-				an extensive <span style='color: #d6c3b6'>music career</span> as a bassist.</td>\
+				<td>I'm a <span style='color: #d6c3b6'>Economics</span> and <span style='color: #d6c3b6'>Computer Science</span> student at Duke University.\n\
+				I am \n\
+				very interested in <span style='color: #d6c3b6'>programming</span>, <span style='color: #d6c3b6'>economic</span> and <span style='color: #d6c3b6'>business</span>. \n\
+				I also have a fledgin career as an amateur <span style='color: #d6c3b6'>go (igo)</span> player and I <span style='color: #d6c3b6'>row</span> for Duke.</td>\
 				</tr></table>\
-				To see my portfolio and music, type <span style='color: #d6c3b6'>links</span>\
+				For more information, type <span style='color: #d6c3b6'>links</span>\
 				<br><br>\
 				", {raw: true});
 		} else if(command == 'contact') {
