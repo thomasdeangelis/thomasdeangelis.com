@@ -31,12 +31,12 @@ $(document).ready(function() {
 <span style='color: #9f7155'>┌──</span> <span style='color: #d6c3b6'>social</span> <span style='color: #9f7155'>──┐</span><br\>\
 				<table border='0'>\
 				<tr>\
-					<td><a href='http://www.github.com/thomasdeangelis'>github</a></td>\
-					<td><span style='color: #9f7155'>««</span> code portfolio</td>\
-				</tr>\
-				<tr>\
 					<td><a href='http://www.linkedin.com/in/thomasda/'>linkedin</a></td>\
 					<td><span style='color: #9f7155'>««</span> professionalism</td>\
+				</tr>\
+				<tr>\
+					<td><a href='http://www.github.com/thomasdeangelis'>github</a></td>\
+					<td><span style='color: #9f7155'>««</span> code portfolio</td>\
 				</tr>\
 				<tr>\
 					<td><a href='https://www.facebook.com/tommy.deangelis'>facebook</a></td>\
