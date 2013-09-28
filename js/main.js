@@ -32,7 +32,7 @@ $(document).ready(function() {
 				<table border='0'>\
 				<tr>\
 					<td><a href='http://www.linkedin.com/in/thomasda/'>linkedin</a></td>\
-					<td><span style='color: #9f7155'>««</span> professionalism</td>\
+					<td><span style='color: #9f7155'>««</span> professional</td>\
 				</tr>\
 				<tr>\
 					<td><a href='http://www.github.com/thomasdeangelis'>github</a></td>\
@@ -51,12 +51,12 @@ $(document).ready(function() {
 <span style='color: #9f7155'>┌──</span> <span style='color: #d6c3b6'>creative</span> <span style='color: #9f7155'>──┐</span><br\>\
 				<table border='0'>\
 				<tr>\
-					<td><a href='http://earspl1t.deviantart.com'>deviantart</a></td>\
-					<td><span style='color: #9f7155'>««</span> ui design</td>\
+					<td><a href='http://www.flickr.com/photos/thomasdeangelis/'>flickr</a></td>\
+					<td><span style='color: #9f7155'>««</span> photos</td>\
 				</tr>\
 				<tr>\
-					<td><a href='http://www.povertyhollow.com'>Poverty Hollow</a>\
-					<td><span style='color: #9f7155'>««</span> blackened emo jams</td>\
+					<td><a href='https://soundcloud.com/thomasdeangelis'>soundcloud</a>\
+					<td><span style='color: #9f7155'>««</span> my music (and my brother's)</td>\
 				</tr>\
 				<tr>\
 					<td><a href='http://www.facebook.com/midiandthemoderndance'>m&tmd</a>\
