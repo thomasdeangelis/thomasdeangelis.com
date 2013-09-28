@@ -8,21 +8,12 @@ $(document).ready(function() {
 				<table>\
 				<tr>\
 				<td><img src='img/headshot.jpeg' width=100px></td>\
-<<<<<<< HEAD
 				<td>I'm a <span style='color: #d6c3b6'>Economics and Computer Science</span> student at Duke University.\n\
 				I was born and lived most of my life in Italy. \n\
 				I am passionate about <span style='color: #d6c3b6'>programming, economic research and rowing</span>, <span style='color: #d6c3b6'>economic research</span> and <span style='color: #d6c3b6'>rowing</span> \n\
 				I also have a fledging career as an amateur <span style='color: #d6c3b6'>go (igo)</span> player.</td>\
 				</tr></table>\
 				For more information, type <span style='color: #d6c3b6'>links</span>\
-=======
-				<td>I'm a <span style='color: #d6c3b6'>Economics and Computer Science student</span> based out of New York City\n\
-				with an electrical engineering background. This \n\
-				is supplemented by an interest in <span style='color: #d6c3b6'>UI design</span> and \n\
-				an extensive <span style='color: #d6c3b6'>music career</span> as a bassist.</td>\
-				</tr></table>\
-				To see my portfolio and music, type <span style='color: #d6c3b6'>links</span>\
->>>>>>> parent of f97cbd7... new about
 				<br><br>\
 				", {raw: true});
 		} else if(command == 'contact') {
@@ -40,38 +31,36 @@ $(document).ready(function() {
 <span style='color: #9f7155'>┌──</span> <span style='color: #d6c3b6'>social</span> <span style='color: #9f7155'>──┐</span><br\>\
 				<table border='0'>\
 				<tr>\
-					<td><a href='http://www.linkedin.com/in/thomasda/'>linkedin</a></td>\
-					<td><span style='color: #9f7155'>««</span> professional</td>\
-				</tr>\
-				<tr>\
 					<td><a href='http://www.github.com/thomasdeangelis'>github</a></td>\
 					<td><span style='color: #9f7155'>««</span> code portfolio</td>\
+				</tr>\
+				<tr>\
+					<td><a href='http://www.linkedin.com/in/thomasda/'>linkedin</a></td>\
+					<td><span style='color: #9f7155'>««</span> professionalism</td>\
 				</tr>\
 				<tr>\
 					<td><a href='https://www.facebook.com/tommy.deangelis'>facebook</a></td>\
 					<td><span style='color: #9f7155'>««</span> (meta) real life</td>\
 				</tr>\
 				<tr>\
-					<td><a href='http://stackoverflow.com/users/2789511/thomas-de-angelis'>stackoverflow</a></td>\
-					<td><span style='color: #9f7155'>««</span> programming Q&A</td>\
+					<td><a href='http://www.reddit.com/u/earsplit'>reddit</a></td>\
+					<td><span style='color: #9f7155'>««</span> karma</td>\
 				</tr>\
-
 				</table><br\>\
 				&#160&#160&#160&#160&#160&#160\
-<span style='color: #9f7155'>┌──</span> <span style='color: #d6c3b6'>fun</span> <span style='color: #9f7155'>──┐</span><br\>\
+<span style='color: #9f7155'>┌──</span> <span style='color: #d6c3b6'>creative</span> <span style='color: #9f7155'>──┐</span><br\>\
 				<table border='0'>\
 				<tr>\
-					<td><a href='http://pandanet-igs.com/communities/gopanda2'>Internet Go Server</a></td>\
-					<td><span style='color: #9f7155'>««</span> go playing as 'thomasmarc'</td>\
-				</tr>\
-
-				<tr>\
-					<td><a href='https://soundcloud.com/thomasdeangelis'>soundcloud</a>\
-					<td><span style='color: #9f7155'>««</span> my music (and my brother's)</td>\
+					<td><a href='http://earspl1t.deviantart.com'>deviantart</a></td>\
+					<td><span style='color: #9f7155'>««</span> ui design</td>\
 				</tr>\
 				<tr>\
-					<td><a href='http://projecteuler.net/profile/thomasdeangelis.png'>project euler</a>\
-					<td><span style='color: #9f7155'>««</span> spare time problem solving</td>\
+					<td><a href='http://www.povertyhollow.com'>Poverty Hollow</a>\
+					<td><span style='color: #9f7155'>««</span> blackened emo jams</td>\
+				</tr>\
+				<tr>\
+					<td><a href='http://www.facebook.com/midiandthemoderndance'>m&tmd</a>\
+					<td><span style='color: #9f7155'>««</span> cathartic indie rock</td>\
 				</tr>\
 				</table>\
 				<br\>\
@@ -83,16 +72,16 @@ $(document).ready(function() {
 		} else if(command == 'ls -lsa') {
 			term.echo("\
 				<br\>\
-				total 248<br \>\
-				 4 drwxr-xr-x  27 thomasdeangelis users  4096 Jul 12 19:30 .<br \>\
+				total 48<br \>\
+				 4 drwxr-xr-x  7 thomasdeangelis users  4096 Jul 12 19:30 .<br \>\
 				 4 drwx------  6 thomasdeangelis users  4096 Jul 10 08:28 ..<br \>\
-				 4 -rw-r--r--  51 thomasdeangelis users  &#160 16 Jul  10 08:58 CNAME<br \>\
-				 4 drwxr-xr-x  62 thomasdeangelis users  4096 Jul 12 09:35 css<br \>\
+				 4 -rw-r--r--  1 thomasdeangelis users  &#160 16 Jul  10 08:58 CNAME<br \>\
+				 4 drwxr-xr-x  2 thomasdeangelis users  4096 Jul 12 09:35 css<br \>\
 				 4 drwxr-xr-x  2 thomasdeangelis users  4096 Jul 10 10:18 fonts<br \>\
-				 4 drwxr-xr-x  18 thomasdeangelis users  4096 Jul 11 20:40 .git<br \>\
-				 4 drwxr-xr-x  42 thomasdeangelis users  4096 Jul 11 20:02 img<br \>\
+				 4 drwxr-xr-x  8 thomasdeangelis users  4096 Jul 11 20:40 .git<br \>\
+				 4 drwxr-xr-x  2 thomasdeangelis users  4096 Jul 11 20:02 img<br \>\
 				 4 -rw-r--r--  1 thomasdeangelis users  2367 Jul 12 19:30 index.html<br \>\
-				 4 drwxr-xr-x  42 thomasdeangelis users  4096 Jul 12 19:43 js<br \>\
+				 4 drwxr-xr-x  2 thomasdeangelis users  4096 Jul 12 19:43 js<br \>\
 				<br\>\
 			", {raw: true});
 		} else {
