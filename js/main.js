@@ -10,8 +10,8 @@ $(document).ready(function() {
 				<td><img src='img/headshot.jpeg' width=100px></td>\
 				<td>I'm a student at Duke University majoring in <span style='color: #d6c3b6'>Economics</span> and <span style='color: #d6c3b6'>Computer Science</span>.\n\
 				I  \n\
-				enjoy <span style='color: #d6c3b6'>programming</span>, <span style='color: #d6c3b6'>ambient music</span> and <span style='color: #d6c3b6'>economic forecasting</span>. \n\
-				I <span style='color: #d6c3b6'>row</span> for Duke and I like to play <span style='color: #d6c3b6'>go</span> and <span style='color: #d6c3b6'>produce music</span> in my free time.</td>\
+				enjoy <span style='color: #d6c3b6'>programming</span>, <span style='color: #d6c3b6'>ambient</span> music and <span style='color: #d6c3b6'>economic</span> forecasting and research. \n\
+				I <span style='color: #d6c3b6'>row</span> for Duke and I like to play <span style='color: #d6c3b6'>go</span> and produce music in my free time.</td>\
 				</tr></table>\
 				For more information, type <span style='color: #d6c3b6'>links</span>\
 				<br><br>\
