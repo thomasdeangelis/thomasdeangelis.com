@@ -8,7 +8,7 @@ $(document).ready(function() {
 				<table>\
 				<tr>\
 				<td><img src='img/headshot.jpeg' width=100px></td>\
-				<td>I'm a <span style='color: #d6c3b6'>Economics and Computer Science student</span> based out of New York City\n\
+				<td>I'm a <span style='color: #d6c3b6'>Economics and Computer Science</span> student based out of New York City\n\
 				with an electrical engineering background. This \n\
 				is supplemented by an interest in <span style='color: #d6c3b6'>UI design</span> and \n\
 				an extensive <span style='color: #d6c3b6'>music career</span> as a bassist.</td>\
