@@ -11,7 +11,7 @@ $(document).ready(function() {
 				<td>I'm a student at Duke University majoring in <span style='color: #d6c3b6'>Economics</span> and <span style='color: #d6c3b6'>Computer Science</span>.\n\
 				I am \n\
 				very interested in <span style='color: #d6c3b6'>programming</span>, <span style='color: #d6c3b6'>economic</span> and <span style='color: #d6c3b6'>business</span>. \n\
-				I also have a fledgin career as an amateur <span style='color: #d6c3b6'>go (igo)</span> player and I <span style='color: #d6c3b6'>row</span> for Duke.</td>\
+				I also <span style='color: #d6c3b6'>row</span> for Duke and I like to play <span style='color: #d6c3b6'>go (igo)</span>.</td>\
 				</tr></table>\
 				For more information, type <span style='color: #d6c3b6'>links</span>\
 				<br><br>\
