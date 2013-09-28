@@ -43,7 +43,7 @@ $(document).ready(function() {
 					<td><span style='color: #9f7155'>««</span> (meta) real life</td>\
 				</tr>\
 				<tr>\
-					<td><a href='http://www.reddit.com/u/earsplit'>reddit</a></td>\
+					<td><a href='http://stackoverflow.com/users/2789511/thomas-de-angelis'>stackoverflow</a></td>\
 					<td><span style='color: #9f7155'>««</span> karma</td>\
 				</tr>\
 				</table><br\>\
@@ -59,8 +59,8 @@ $(document).ready(function() {
 					<td><span style='color: #9f7155'>««</span> my music (and my brother's)</td>\
 				</tr>\
 				<tr>\
-					<td><a href='http://www.facebook.com/midiandthemoderndance'>m&tmd</a>\
-					<td><span style='color: #9f7155'>««</span> cathartic indie rock</td>\
+					<td><a href='http://sites.duke.edu/dukemenscrew/'>rowing</a>\
+					<td><span style='color: #9f7155'>««</span> swag</td>\
 				</tr>\
 				</table>\
 				<br\>\
