@@ -42,15 +42,6 @@ body {
 	color: #646a6d;
 }
 
-#showcase{
-	position: absolute;
-	top: 600px;
-	left: 650px;
-	height: 80px;
-	width: 450px;
-	color: #646a6d;
-}
-
 #gameoflife{
 	position: absolute;
 	top: 150px;
